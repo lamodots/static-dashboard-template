@@ -1,0 +1,7 @@
+.ms-5{
+    margin-left:14rem !important;
+}
+
+ul li a:hover{
+    color:rgba(255,255,255,0.5) !important;
+}
